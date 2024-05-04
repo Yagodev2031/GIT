@@ -12,9 +12,8 @@ repositorio para estar armazenando Resumos sobre Git e Github
 
 | Aulas | Resumos |
 |-------|---------|
-|Gravando Alteraçoes no Repositorio Local | [resumo]() |
-|Gravando Alteraçoes no Repositorio Local | [resumo]() |
-|Gravando Alteraçoes no Repositorio Local | [resumo]() |
+|aula01| [resumo]() |
+|aula 02 | [resumo]() |
 
 ```
 git init
